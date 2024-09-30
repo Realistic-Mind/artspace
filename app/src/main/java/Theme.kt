@@ -8,7 +8,7 @@ import androidx.compose.ui.text.TextStyle
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.sp
 
-// Vibrant colors for a comic book-style theme
+//  comic book-style
 private val ComicBookColors = lightColorScheme(
     primary = Color(0xFFED1C24),  // Bright red
     onPrimary = Color(0xFF000000),  // Black text on primary buttons
